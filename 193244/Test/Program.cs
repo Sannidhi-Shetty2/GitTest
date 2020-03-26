@@ -11,7 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             string username;
-            Console.WriteLine("Enter your name:");
+            Console.WriteLine("Enter user name:");
             username = Console.ReadLine();
             Console.WriteLine("Hi,{0} \nWelcome to GITHUB Tutorial", username);
             Console.ReadLine();
